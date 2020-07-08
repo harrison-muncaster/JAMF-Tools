@@ -1,0 +1,1 @@
+docker run -it --rm -v ~/.perfmon/logs:/app/logs perfmon:1.0
